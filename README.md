@@ -1,2 +1,3 @@
-# github-para-programadores1
+# Bienvenido a github.
 prueba de repositorio
+[visita mi blog] (http://carlossolis.mobi)
